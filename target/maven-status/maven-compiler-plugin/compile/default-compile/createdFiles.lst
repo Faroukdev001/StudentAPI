@@ -1,0 +1,6 @@
+com\example\demoapp\student\StudentRepository.class
+com\example\demoapp\student\StudentConfig.class
+com\example\demoapp\student\StudentController.class
+com\example\demoapp\student\StudentService.class
+com\example\demoapp\student\Student.class
+com\example\demoapp\DemoappApplication.class
